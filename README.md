@@ -1,4 +1,4 @@
-Code for wedding website [mandyandethan.us](mandyandethan.us)
+Code for wedding website [mandyandethan.us](http://mandyandethan.us)
 
 Jekyll theme is:
 
